@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> ## carl-parser was replaced by a Python-based lark parser and is no longer maintained. Please use the native parsing support integrated in [stormpy](https://github.com/moves-rwth/stormpy) instead.
+
+
 Parser for carl data structures
 --------------------------------------
 
